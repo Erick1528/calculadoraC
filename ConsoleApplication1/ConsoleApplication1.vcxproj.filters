@@ -18,5 +18,11 @@
     <ClCompile Include="calculadora.c">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="calculadoraPesetasEuros.c">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="sumaMultiple.c">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
